@@ -1,5 +1,5 @@
 ## Hi👋
-## We are the people behind the Is Your Server Online? discord bot.
+## We are the people behind the Is Your Server Online?.
 <!--
 
 **Here are some ideas to get you started:**
