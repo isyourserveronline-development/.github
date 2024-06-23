@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> IS PROYECT IS AVANDONATED.
+
 ## Hi👋
 ## We are the people behind the Is Your Server Online?.
 <!--
