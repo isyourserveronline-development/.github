@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> IS PROYECT IS AVANDONATED.
+> IS PROYECT IS TEMPORARILY CLOSED.
 
 ## Hi👋
 ## We are the people behind the Is Your Server Online?.
